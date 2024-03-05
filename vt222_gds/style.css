@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+article {
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
